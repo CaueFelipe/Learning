@@ -2,7 +2,7 @@
 
 Os links abaixo não estão separados por categoria
 
-- [Hacker Rank](www.hackerrank.com/)
+- [Hacker Rank](http://www.hackerrank.com/)
 - [Kaggle](www.kaggle.com)
 - [Code Fights](https://codefights.com/)
 - [RegExr](http://regexr.com/)
